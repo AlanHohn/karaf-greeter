@@ -1,0 +1,5 @@
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.2.0">
+    <feature name="greeter">
+        <feature>scr</feature>
+    </feature>
+</features>

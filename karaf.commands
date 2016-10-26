@@ -1,0 +1,3 @@
+feature:repo-add mvn:org.anvard.karaf.greeter/greeter/1.0-SNAPSHOT/xml/features
+feature:install greeter
+
