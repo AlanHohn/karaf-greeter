@@ -48,5 +48,10 @@
 			<artifactId>french</artifactId>
 			<version>${project.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>org.anvard.karaf.greeter</groupId>
+			<artifactId>spanish</artifactId>
+			<version>${project.version}</version>
+		</dependency>
 	</dependencies>
 </project>

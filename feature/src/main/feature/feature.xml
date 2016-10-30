@@ -1,5 +1,7 @@
 <features xmlns="http://karaf.apache.org/xmlns/features/v1.2.0">
-    <feature name="greeter">
-        <feature>scr</feature>
-    </feature>
+	<feature name="greeter">
+		<feature>scr</feature>
+		<feature>camel-blueprint</feature>
+	</feature>
+	<repository>mvn:org.apache.camel.karaf/apache-camel/2.18.0/xml/features</repository>
 </features>

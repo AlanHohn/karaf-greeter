@@ -35,6 +35,7 @@
 		<module>../manager</module>
 		<module>../english</module>
 		<module>../french</module>
+		<module>../spanish</module>
 		<module>../feature</module>
 	</modules>
 
